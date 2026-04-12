@@ -1,0 +1,51 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20260412152919
+Nombre de usuario: LAPTOP-LMHGCD3F\Gustavo
+Usuario RunAs: LAPTOP-LMHGCD3F\Gustavo
+Nombre de la configuración: 
+Máquina: LAPTOP-LMHGCD3F (Microsoft Windows NT 10.0.26200.0)
+Aplicación host: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Id. de proceso: 24184
+PSVersion: 5.1.26100.7920
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.7920
+BuildVersion: 10.0.26100.7920
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+La transcripción ha comenzado. El archivo de salida es Tareas\Tarea01\tarea01.txt
+PS C:\Users\Gustavo\Desktop\Lic. economía\1er cuatrimestre\CIENCIA DE DATOS PARA ECON. Y NEG\repo-curso-2026\tarea\tarea01> pwd
+
+Path
+----
+C:\Users\Gustavo\Desktop\Lic. economía\1er cuatrimestre\CIENCIA DE DATOS PARA ECON. Y NEG\repo-curso-2026\tarea\tarea01
+
+
+PS C:\Users\Gustavo\Desktop\Lic. economía\1er cuatrimestre\CIENCIA DE DATOS PARA ECON. Y NEG\repo-curso-2026\tarea\tarea01> ls
+
+
+    Directorio: C:\Users\Gustavo\Desktop\Lic. economía\1er cuatrimestre\CIENCIA DE DATOS PARA ECON. Y
+    NEG\repo-curso-2026\tarea\tarea01
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         12/4/2026     15:12                dir1
+d-----         12/4/2026     15:16                dir2
+d-----         12/4/2026     14:11                dir4
+d-----         12/4/2026     15:28                Tareas
+-a----         12/4/2026     15:13              0 .Rhistory
+-a----         12/4/2026     15:05             26 a.txt
+-a----         12/4/2026     15:04            734 combined.txt
+-a----         12/4/2026     14:31           3942 output.txt
+-a----         12/4/2026     13:10            218 tarea01.Rproj
+
+
+PS C:\Users\Gustavo\Desktop\Lic. economía\1er cuatrimestre\CIENCIA DE DATOS PARA ECON. Y NEG\repo-curso-2026\tarea\tarea01> Stop-Transcript
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20260412152954
+**********************
